@@ -14,5 +14,5 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img align="center" alt="html5" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 </div>
