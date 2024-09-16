@@ -1,4 +1,4 @@
-### Olá! Eu sou o Pedro Miranda 🐱‍👤
+## Yo, sou Pedro Miranda, direto das ruas do RJ, trazendo a real do código. Se liga no meu trampo e vem comigo nessa jornada. 🐱‍👤
 
 
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/og.pwdro/)
